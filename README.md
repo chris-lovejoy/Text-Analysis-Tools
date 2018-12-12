@@ -5,6 +5,8 @@ I initially developed these tools to facilitate analysis of reports written by c
 
 Due to patient confidentiality, I can not upload the full sample of reports. I have uploaded a small artificial sample ('Reports.csv') to demonstrate the nature and structure of the reports.
 
+Due to Intellectual Property restrictions, I can not upload all of the tools developed.
+
 
 
 ### Sentence Splitter.ipynb
