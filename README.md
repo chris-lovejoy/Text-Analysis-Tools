@@ -19,3 +19,9 @@ This can be used to facilitate sentence-by-sentence analysis, as may be benefici
 ### Keyword Analysis.ipynb
 This script enables a user to search a set of keywords and receive a table detailing the number of reports containing those particular keywords.
 
+
+### CSV_to_TXT.ipynb
+This script takes every cell in the column of a CSV file, concatenates their contents and outputs a single TXT file.
+
+The original purpose was to facilitate the development of a carer report language model using Keras, by feeding in a continuous TXT file.
+
